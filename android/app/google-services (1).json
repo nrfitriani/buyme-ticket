@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "208399040497",
+    "firebase_url": "https://buyme-ticket.firebaseio.com",
+    "project_id": "buyme-ticket",
+    "storage_bucket": "buyme-ticket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208399040497:android:f5351cdf12ab96fc948e50",
+        "android_client_info": {
+          "package_name": "com.example.buyme_ticket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208399040497-puvduvj7mhn43cgagisiso3hu8g2g8fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAANqo9NEV-Qjnxw1ZinaXKZkhV92oxvb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208399040497-puvduvj7mhn43cgagisiso3hu8g2g8fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
